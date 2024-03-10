@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: Default
+  name: MacBook
 
 steps:
 - task: Maven@3
